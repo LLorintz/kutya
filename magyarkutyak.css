@@ -25,7 +25,17 @@ h1{
     display: grid;
     grid-template-columns: auto auto;
 }
+h2{
+    width:96%;
+    background-color: #cd853f;
+    font-style: italic;
+}
 
+img{
+    width:100px;
+    float: left;
+    margin: 5px;
+}
 .hasab {
     
 }
