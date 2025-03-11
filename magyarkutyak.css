@@ -5,13 +5,17 @@ body{
 }
 
 ul{
-    display:flex;
+    display: flex;
 }
 li{
-    min-width:60px;
+    min-width: 50px;
     list-style: none;
-    padding:6px;
+    padding: 6px;
     border-right: 2px solid #a52a2a;
+    text-align: center;
+}
+li:last-child{
+    border-right: none;
 }
 
 .hasab {
