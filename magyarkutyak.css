@@ -18,8 +18,16 @@ li:last-child{
     border-right: none;
 }
 
-.hasab {
+h1{
+    border-bottom: 2px solid #a52a2a;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+}
 
+.hasab {
+    
 }
 
 
